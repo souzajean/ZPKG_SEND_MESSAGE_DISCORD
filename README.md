@@ -4,7 +4,7 @@
 
 <br> 
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Este iFlow tem como objetivo demonstrar uma integração simples, eficiente e reutilizável utilizando o SAP BTP CPI, permitindo o envio de mensagens automáticas para canais do Discord via Webhook.
 
@@ -17,7 +17,7 @@ A solução pode ser utilizada como base para:
 
 <br>
 
-🧩 Visão Geral da Solução
+## 🧩 Visão Geral da Solução
 
 A integração expõe um endpoint HTTP que recebe requisições externas e processa uma mensagem que será enviada diretamente para um canal do Discord.
 
