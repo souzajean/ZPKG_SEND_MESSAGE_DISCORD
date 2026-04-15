@@ -96,7 +96,7 @@ Body
 # 🔹 4. Request Reply (Chamada API)
 
 ### ➕ Adicionando Request Reply
-![Fluxo](imagens/Screenshot_10.png)
+![Fluxo](imagens/Screenshot_11.png)
 
 <br>
 
