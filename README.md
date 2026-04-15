@@ -48,13 +48,13 @@ IF_SEND_MESSAGE_DISCORD
 ![Fluxo](imagens/Screenshot_5.png)
 
 
-# 🔹 3. HTTPS Sender (Trigger)
+# 🔹 2. HTTPS Sender (Trigger)
 ```
 Endpoint: /discord
 ```
 ![Fluxo](imagens/Screenshot_6.png)
 
-# 🔹 4. Content Modifier
+# 🔹 3. Content Modifier
 
 ### ➕ Adicionando o Content Modifier
 ![Fluxo](imagens/Screenshot_7.png)
@@ -62,10 +62,11 @@ Endpoint: /discord
 <br>
 
 ### 🏷️ Renomeando o Content Modifier
-![Fluxo](imagens/Screenshot_8.png)
 ```
 Nome: sendBody
 ```
+![Fluxo](imagens/Screenshot_8.png)
+
 
 <br>
 
@@ -81,6 +82,7 @@ Message Header
 ![Fluxo](imagens/Screenshot_9.png)
 
 <br>
+
 ### ⚙️ Configuração do Content Modifier
 Body
 ```
@@ -91,7 +93,7 @@ Body
 ![Fluxo](imagens/Screenshot_10.png)
 
 
-# 🔹 5. Request Reply (Chamada API)
+# 🔹 4. Request Reply (Chamada API)
 
 ### ➕ Adicionando Request Reply
 ![Fluxo](imagens/Screenshot_10.png)
