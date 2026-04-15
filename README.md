@@ -101,10 +101,10 @@ Body
 <br>
 
 ### 🏷️ Renomeando o Request Reply
-![Fluxo](imagens/Screenshot_11.png)
 ```
 Nome: API_jsonplaceholder
 ```
+![Fluxo](imagens/Screenshot_11.png)
 
 <br>
 
@@ -122,53 +122,43 @@ Query: id=${property.id}
 
 <br>
 
-# 🔹 6. Content Modifier (Get Payload)
+# 🔹 5. Discord
 
-### ➕ Adicionando o Content Modifier
+### ➕ Configurando o Canal
 ![Fluxo](imagens/Screenshot_14.png)
 
 <br>
 
-### 🏷️ Renomeando o Content Modifier
+### ➡️ Integrações
 ![Fluxo](imagens/Screenshot_15.png)
-```
-Nome: cm_get_payload
-```
 
 <br>
 
-### ⚙️ Configuração do Content Modifier 
+### ⚙️ Configuração do Webhooks 
 ![Fluxo](imagens/Screenshot_16.png)
-Message Body
-```
-Type: Expression
-Body: ${body}
-```
-# 🔹 7. Content Modifier (Prepare Payload)
 
-### ➕ Adicionando o Content Modifier
+<br>
+
+### ➕ Adicionando o Webhooks
 ![Fluxo](imagens/Screenshot_17.png)
 
 <br>
 
-### ⚙️ Configuração do Content Modifier
+### 🏷️ Renomeandoo o Webhooks
 
 ![Fluxo](imagens/Screenshot_18.png)
 
 <br>
 
-# 🔹 8. Groovy Script (ENCODER Base64)
+# 🔹 7. Postman
 
-### ➕ Adicionando o Adapter Groovy Script
+### ➕ Enviando o POST
 ![Fluxo](imagens/Screenshot_19.png)
 
 <br>
 
-### 🏷️ Renomeando o Groovy Script
+### 🏷️ Resultado no DISCORD
 ![Fluxo](imagens/Screenshot_20.png)
-```
-Nome: groovy_encode
-```
 
 
 <br>
