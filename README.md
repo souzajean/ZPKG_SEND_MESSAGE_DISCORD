@@ -1,8 +1,27 @@
 # 🚀 SEND_MESSAGE_DISCORD
 
-## SAP BTP CPI - SEND_MESSAGE_DISCORD
+## SAP BTP Integration Suite (CPI) – Integração com Discord via Webhook
 
-🎯 🧩 Objetivo do iFlow
+<br> 
+
+🎯 Objetivo
+
+Este iFlow tem como objetivo demonstrar uma integração simples, eficiente e reutilizável utilizando o SAP BTP CPI, permitindo o envio de mensagens automáticas para canais do Discord via Webhook.
+
+A solução pode ser utilizada como base para:
+
+- Monitoramento de integrações
+- Notificações de erro/sucesso
+- Alertas operacionais em tempo real
+- Integração com sistemas externos
+
+<br>
+
+🧩 Visão Geral da Solução
+
+A integração expõe um endpoint HTTP que recebe requisições externas e processa uma mensagem que será enviada diretamente para um canal do Discord.
+
+Essa abordagem desacopla sistemas SAP de ferramentas de comunicação modernas, permitindo maior visibilidade operacional.
 
 ![Fluxo](imagens/capa-linkedin.png)
 
